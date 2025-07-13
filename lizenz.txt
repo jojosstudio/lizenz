@@ -1,4 +1,3 @@
-
 Benutzername: arduino_flasher3223
 Passwort: micqUxQe4k97L9(m
 Seriennummer: AF-20250713-5R0J
@@ -6,5 +5,14 @@ Produktnummer: AF-PRO-1.0
 Lizenz: LIC-E31Z-MWMD
 Schule: Test
 Aktiviert: 2025-07-13 17:57:43
+Gültig bis: 2026-07-13
+-----------------------------------
+Benutzername: arduino_flasher5639
+Passwort: RN(G_F_*mi7L1Ix$
+Seriennummer: AF-20250713-KVIT
+Produktnummer: AF-PRO-1.0
+Lizenz: LIC-ZV33-37KX
+Schule: test2
+Aktiviert: 2025-07-13 18:01:26
 Gültig bis: 2026-07-13
 -----------------------------------
