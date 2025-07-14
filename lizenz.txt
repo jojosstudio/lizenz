@@ -16,3 +16,12 @@ Schule: test2
 Aktiviert: 2025-07-13 18:01:26
 Gültig bis: 2026-07-13
 -----------------------------------
+Benutzername: arduino_flasher6570
+Passwort: KGCSNzcq@5@C&q5a
+Seriennummer: AF-20250714-CAMI
+Produktnummer: AF-PRO-1.0
+Lizenz: LIC-O3CJ-PV51
+Schule: Julien
+Aktiviert: 2025-07-14 09:23:32
+Gültig bis: 2026-07-14
+-----------------------------------
